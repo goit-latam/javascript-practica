@@ -1,9 +1,9 @@
-- Об'єкти window і document
-- Ієрархія DOM-елементів
-- Пошук DOM-елементів з querySelector
-- Властивість textContent
-- Робота з classList та атрибутами
-- Створення елементів
-- Вставка елементів через: append, prepend, before та after
-- Видалення методом remove
-- Властивість innerHTML і метод insertAdjacentHTML
+- objeto window y documento.
+- Jerarquía de elementos DOM
+- Buscar elementos DOM con querySelector
+- La propiedad textContent
+- Trabajar con classList y atributos
+- Creación de elementos
+- Insertar elementos a través de: append, prepend, before та after
+- Eliminación por el método remove
+- Propiedad InnerHTML y método insertAdjacentHTML
