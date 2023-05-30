@@ -1,4 +1,4 @@
-- objeto window y documento.
+- Objeto window y documento.
 - Jerarquía de elementos DOM
 - Buscar elementos DOM con querySelector
 - La propiedad textContent
